@@ -6,12 +6,12 @@ server.port = 80
 #server.http-parseopt-host-strict = "disable"
 
 mimetype.assign = (
-  ".html" => "text/html",
-  ".txt" => "text/plain",
+  ".html" => "text/html; charset=utf-8",
+  ".txt" => "text/plain; charset=utf-8",
   ".jpg" => "image/jpeg",
   ".png" => "image/png",
-  ".css" => "text/css",
-  ".js" => "text/javascript"
+  ".css" => "text/css; charset=utf-8",
+  ".js" => "text/javascript; charset=utf-8"
 )
 index-file.names = ( "index.html" )
 server.modules = ("mod_alias",
