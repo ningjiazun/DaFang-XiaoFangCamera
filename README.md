@@ -1,3 +1,11 @@
+## 发布简体中文版
+<a href="https://github.com/ningjiazun/XiaoFang-DaFang-Hacks/blob/master/XiaoFang1S_01.png">
+	<img src="https://github.com/ningjiazun/XiaoFang-DaFang-Hacks/blob/master/XiaoFang1S_01.png">
+</a>
+<a href="https://github.com/ningjiazun/XiaoFang-DaFang-Hacks/blob/master/XiaoFang1S_02.png">
+	<img src="https://github.com/ningjiazun/XiaoFang-DaFang-Hacks/blob/master/XiaoFang1S_02.png">
+</a>
+
 ## Xiaomi DaFang Hacks / XiaoFang 1S / Wyzecam V2 / Wyzecam Pan / Other T20 Devices
 
 [![Join the chat at https://gitter.im/Xiaomi-Dafang-Hacks/Lobby](https://badges.gitter.im/Xiaomi-Dafang-Hacks/Lobby.svg)](https://gitter.im/Xiaomi-Dafang-Hacks/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
